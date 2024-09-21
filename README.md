@@ -1,4 +1,4 @@
-![Interfaz de Hedy3](hedy3.gif)
+![Interfaz de Hedy3](./hedy3.gif)
 # Hedy3: Asistente Virtual con Interfaz Gráfica 3D
 
 **Hedy3** es un asistente virtual interactivo desarrollado en Python, con una interfaz gráfica basada en modelos 3D.
